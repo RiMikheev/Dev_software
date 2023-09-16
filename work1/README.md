@@ -2,6 +2,6 @@
 
 ## Hello
 
-**This is my work1 progect**
+_**This is my work1 directory**_
 
 ### Good luck watching this code!!!
